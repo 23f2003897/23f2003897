@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&random=false&width=300&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&random=false&width=340&lines=Hey%2C+I'm+Khusbu!+%F0%9F%91%8B;Hello+World!+%F0%9F%8C%8F;Welcome+to+my+corner!+%E2%9C%A8" alt="Typing SVG" />
 
 I'm **Khusbu**, a Data Science undergrad at **IIT Madras** who loves turning messy problems into clean ML solutions.
 
