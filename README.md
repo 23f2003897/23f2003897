@@ -4,7 +4,7 @@
 
 </div>
 
-### Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&random=false&width=300&lines=Hi+there!+%F0%9F%91%8B" alt="Typing SVG" />
 
 I'm **Khusbu**, a Data Science undergrad at **IIT Madras** who loves turning messy problems into clean ML solutions.
 
