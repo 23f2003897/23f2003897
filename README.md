@@ -33,21 +33,40 @@
 
 ### Featured Projects
 
-**[Music Genre Classification](https://github.com/23f2003897/music-genre-classification-ast)** — Audio Spectrogram Transformer with **F1 0.89** across 10 genres. Custom CNN + CRNN ensemble deployed on HuggingFace. [`Demo`](https://huggingface.co/spaces/Khusbupandey/music-genre-classifier)
-
-**[Plant Super-Resolution](https://github.com/23f2003897/plant-leaves-super-resolution)** — **Top 3%** (27/900+) in IITM Kaggle competition. Conditional GAN with RCAB generator for 4× upscaling.
-
-**[Document Extraction Pipeline](https://github.com/23f2003897/document-extraction)** — Phi-3 Mini running locally with **93% accuracy**, zero cloud cost. OCR fallback + hybrid semantic search.
-
-**[No-Code AutoML Builder](https://github.com/23f2003897/no-code-automl-builder)** — Full ML pipeline in browser for non-technical users. **70% faster** experimentation.
-
-**[Novel Consistency Checker](https://github.com/23f2003897/kdsh-2026)** — KDSH 2026, IIT Kharagpur. RAG pipeline for 100K+ word novels with LLM-based claim verification.
+<a href="https://github.com/23f2003897/music-genre-classification-ast">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2003897&repo=music-genre-classification-ast&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
+<a href="https://github.com/23f2003897/plant-leaves-super-resolution">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2003897&repo=plant-leaves-super-resolution&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
+<a href="https://github.com/23f2003897/document-extraction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2003897&repo=document-extraction&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
+<a href="https://github.com/23f2003897/no-code-automl-builder">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2003897&repo=no-code-automl-builder&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
+<a href="https://github.com/23f2003897/kdsh-2026">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2003897&repo=kdsh-2026&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
+<a href="https://github.com/23f2003897/Leakage-Evaluation-Bias">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=23f2003897&repo=Leakage-Evaluation-Bias&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" />
+</a>
 
 ---
 
+### GitHub Stats
+
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=23f2003897&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=23f2003897&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=23f2003897&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=23f2003897&show_icons=true&theme=default&hide_border=true&title_color=6C63FF&icon_color=6C63FF" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=23f2003897&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=23f2003897&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=23f2003897&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=23f2003897&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+  </picture>
 </p>
 
 <p align="center">
